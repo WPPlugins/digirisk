@@ -1,0 +1,13 @@
+{
+	"name": "Danger",
+	"slug": "danger",
+	"version": "6.2.9.0",
+	"description": "Le module gérant les danger de Digirisk",
+	"path": "modules/danger/",
+	"dependencies": {
+		"shortcode": {},
+		"model": {},
+		"class": {},
+		"action": {}
+	}
+}
